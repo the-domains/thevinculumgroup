@@ -1,0 +1,14 @@
+layout_spectrum: 0.2867384
+color:
+  saturation: 0.7688172
+  lightness: 0.5734767
+  brandStrength: 0.7724015
+  brandColors:
+    - '#FFFFFF'
+    - '#545454'
+    - '#DCDCDC'
+    - '#ABA9AA'
+    - '#000000'
+  rhythmicContrast: 0.7150537
+typography_spectrum: 0.8870968
+name: TheVinculumGroup
