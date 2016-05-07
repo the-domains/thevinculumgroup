@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[www.The VinculumGroup.com]]></title>
         <description><![CDATA[www.The VinculumGroup.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thevinculumgroup/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 04:35:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 May 2016 04:37:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thevinculumgroup/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Alignment]]></title>
+            <description><![CDATA[<article><h1>Alignment</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1b04ec7-37af-413a-bd31-51a75fee01c7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thevinculumgroup/alignment/index.html</link>
+            <guid isPermaLink="false">cb7b6d88-4561-4c35-937d-9554173dd56c</guid>
+            <pubDate>Sat, 07 May 2016 04:37:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Boardroom]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd34def0-54dd-42e0-a184-26c108593eb1.jpg">]]></description>
-            <link>undefinedthe-boardroom/index.html</link>
+            <link>https://thegrid.ai/thevinculumgroup/the-boardroom/index.html</link>
             <guid isPermaLink="false">b105c38d-ab88-4556-869a-47b4d6cc5004</guid>
             <pubDate>Sat, 07 May 2016 04:34:18 GMT</pubDate>
         </item>
