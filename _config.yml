@@ -1,14 +1,28 @@
-layout_spectrum: 0.2867384
-color:
-  saturation: 0.7688172
-  lightness: 0.5734767
-  brandStrength: 0.7724015
-  brandColors:
-    - '#FFFFFF'
-    - '#545454'
-    - '#DCDCDC'
-    - '#ABA9AA'
-    - '#000000'
-  rhythmicContrast: 0.7150537
-typography_spectrum: 0.8870968
 name: TheVinculumGroup
+favicon: null
+layout_spectrum: 0.2867384
+typography_spectrum: 0.8870968
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#000000'
+    - '#e7e2a2'
+    - '#835734'
+    - '#a87c57'
+    - '#5e2a12'
+  brandStrength: 0.75
+  lightness: 0.25
+  saturation: 0.6875
+  rhythmicContrast: 0.75
+purpose: []
