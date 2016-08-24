@@ -1,7 +1,18 @@
+layout_spectrum: 0.5132598371710628
+typography_spectrum: 0.9553770932834595
+color:
+  brandColors:
+    - '#000000'
+    - '#e7e2a2'
+    - '#835734'
+    - '#a87c57'
+    - '#5e2a12'
+  brandStrength: 0.75
+  lightness: 0.25
+  saturation: 0.75
+  rhythmicContrast: 0.75
 name: The Vinculum Group
 favicon: null
-layout_spectrum: 0.91212
-typography_spectrum: 0.8870968
 title: www.The VinculumGroup.com
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#e7e2a2'
-    - '#835734'
-    - '#a87c57'
-    - '#5e2a12'
-  brandStrength: 0.75
-  lightness: 0.25
-  saturation: 0.75
-  rhythmicContrast: 0.75
 purpose: []
